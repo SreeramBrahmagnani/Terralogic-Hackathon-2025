@@ -9,7 +9,7 @@ from database_models import Base, User, Team, Project, Task
 # =====================================================
 # 🔹 CONFIGURATION
 # =====================================================
-API_KEY = "AIzaSyCKVwWQGHUx3Rk7YTWA8TVjyCGfudXbgK4"  # ⚠️ Do NOT expose in production
+API_KEY = "ADD_YOUR_KEY"  # ⚠️ Do NOT expose in production
 MODEL = "models/gemini-2.5-flash-lite"
 
 SYSTEM_PROMPT = """
