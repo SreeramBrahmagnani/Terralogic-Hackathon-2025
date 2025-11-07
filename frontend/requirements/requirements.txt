@@ -1,0 +1,18 @@
+# React Frontend Requirements
+Node Version: >= 16.x
+NPM Version: >= 8.x
+
+# Dependencies
+react==19.2.0
+react-dom==19.2.0
+react-router-dom==7.9.5
+react-scripts==5.0.1
+recharts==3.3.0
+
+# Installation Instructions
+1. Run `npm install` to install dependencies
+2. Run `npm start` to start the development server
+3. Open http://localhost:3000/ to view in browser
+
+# Build for Production
+Run `npm run build` to generate optimized build in the /build folder
